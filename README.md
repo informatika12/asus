@@ -1,0 +1,2 @@
+# asus
+perangkat leptop
